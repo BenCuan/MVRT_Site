@@ -1,4 +1,5 @@
 # MONTA VISTA ROBOTICS WEBSITE
+# NOTE TO BRANCH DEVS: develop2 is the new home.
 
 MVRT's snazzy new website.
 
