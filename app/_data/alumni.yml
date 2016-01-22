@@ -34,7 +34,7 @@
   - name: Evelyn Ding
     college: Princeton
   - name: Joyce Yan
-    college: UCLA
+    college: UCS
   - name: Roy Xia
     college: UCLA
   - name: Jessica Chen
@@ -231,7 +231,6 @@
     college: Harvard
   - name: Eric Zhou
     college: Berkeley
-    story: /about/stories/eric/
   - name: Staphanie Lin
     college: MIT
   - name: Uta Guo
@@ -274,7 +273,6 @@
 2003:
   - name: Patrick Wang
     college: UC Berkeley
-    story: /about/stories/patrick/
   - name: Galen Embry
     college: UC Santa Cruz
   - name: Paul Marshall
@@ -323,7 +321,6 @@
     college: UCSD
   - name: Kathryn Lowe
     college: Air Force/University of Portland
-    story: /about/stories/kathryn/
 
 2000:
   - name: Patrick Shih
